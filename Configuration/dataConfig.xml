@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<environment>
+    <!-- TimeOut -->
+    <timeout>10</timeout>
+
+    <!--Platform-->
+    <platformType>web</platformType>
+
+    <!--Web-->
+    <browser>Chrome</browser>
+    <url>https://demoqa.com/</url>
+    <imageRepo>./ImageRepository/</imageRepo>
+    <user></user>
+    <password></password>
+
+    <!--Mobile-->
+    <UDID></UDID>
+    <APP_PACKAGE></APP_PACKAGE>
+    <APP_ACTIVITY></APP_ACTIVITY>
+    <AppiumServer></AppiumServer>
+
+    <!--API-->
+    <url_api></url_api>
+
+    <!--Electron-->
+    <ElectronDriverPath></ElectronDriverPath>
+    <ElectronAppPath></ElectronAppPath>
+
+    <!--Desktop-->
+    <CalculatorApp></CalculatorApp>
+
+    <!--Database-->
+    <dbURL></dbURL>
+    <dbUser></dbUser>
+    <dbPass></dbPass>
+</environment>
